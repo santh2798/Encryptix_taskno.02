@@ -1,0 +1,162 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.flats-card {
+    background-color: white;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.homepage-text-container {
+    padding: 30px;
+}
+
+.flat-name {
+    color: #f19116;
+    font-family: "Bree Serif";
+    font-size: 30px;
+}
+
+.flat-description {
+    color: #6c6b70;
+    font-family: "Bree Serif";
+}
+
+.book-flat-button {
+    margin-top: 25px;
+    height: 45px;
+    width: 115px;
+    padding: 5px;
+    border-width: 0px;
+    background-color: #f19116;
+    border-radius: 8px;
+    color: #ffffff;
+    font-family: "Roboto";
+}
+
+.sunrise-text-container {}
+
+.sunrise-bg-container {
+    background-color: #222222;
+    height: 155vh;
+    background-size: cover;
+}
+
+.sunriseavenue-heading {
+    color: #f19116;
+    font-family: "Bree Serif";
+    font-size: 30px;
+    padding: 15px;
+
+}
+
+.BHK-card {
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin: 15px;
+
+
+}
+
+.flat-img {
+    height: 190px;
+    width: 100px;
+}
+
+.BHK-text-container {
+    margin-left: 10px;
+    margin-top: 15px;
+}
+
+.BHK-name {
+    font-size: 25px;
+    color: #0f0e46;
+    font-family: "Bree Serif";
+    font-weight: bold;
+}
+
+.BHK-description {
+    color: #6c6b70;
+    font-weight: 500;
+    font-family: "Bree Serif";
+}
+
+.back-button {
+    margin-top: 25px;
+    height: 45px;
+    width: 115px;
+    padding: 5px;
+    border-width: 0px;
+    background-color: #f19116;
+    border-radius: 8px;
+    color: #ffffff;
+    font-family: "Roboto";
+    margin-left: 15px;
+}
+
+.image-size {
+    height: 50vh;
+    width: 100vw;
+}
+
+.detailviewflat {
+    background-color: #222222;
+    height: 90vh;
+}
+
+.flat-price {
+    font-family: "Bree Serif";
+    color: #f19116;
+    font-size: 30px;
+    padding: 20px;
+}
+
+.location-img {
+    height: 30px;
+    width: 30px;
+    margin-left: 20px;
+}
+
+.address {
+    color: white;
+    font-family: "Bree Serif";
+    font-size: 18px;
+    margin-left: 16px;
+}
+
+.horizontal-line {
+    background-color: #ffffff;
+    width: 75vh;
+}
+
+.description-heading {
+    font-family: "Bree Serif";
+    color: #f19116;
+    font-size: 28px;
+    margin-left: 18px;
+}
+
+.para {
+    font-family: "Bree Serif";
+    margin-left: 18px;
+    color: #ffffff;
+    font-size: 18px;
+}
+
+.confirm-button {
+    height: 45px;
+    width: 115px;
+    padding: 5px;
+    border-width: 0px;
+    background-color: #f19116;
+    border-radius: 8px;
+    color: #ffffff;
+    font-family: "Roboto";
+    margin-right: 18px;
+    margin-top: 25px;
+}
