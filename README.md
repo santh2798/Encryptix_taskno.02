@@ -1,7 +1,7 @@
 BASIC STATIC WEBSITE HOSTING ON S3
 
 Steps 
-1.	created a basic static website using HTML and CSS languages using VS code editor
+1.	created a basic static website using HTML and CSS languages.
 2.	Login to AWS console with IAM user and navigate to S3 service
 3.	Create a S3 bucket with unique name in a particular region. 
 4.	First disable the BLOCK ALL PUBLIC ACCESS at account level as well as bucket level to make it publicly accessable.
